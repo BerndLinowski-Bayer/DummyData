@@ -1,0 +1,13 @@
+**/__pycache__
+*.pyc
+*.pyd
+*.pyo
+*.crt
+*.pem
+**/.vscode
+**/logs
+**/temp
+**/tmp
+**/trial
+**/db_password.txt
+**/jwt_secret.txt
